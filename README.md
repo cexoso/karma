@@ -1,0 +1,1 @@
+这个karma可以测试typescript
